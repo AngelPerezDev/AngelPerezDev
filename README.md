@@ -11,6 +11,8 @@ y aunque desde pequeño me encantó siempre la informática (mi primer ordenador
 
 Además, siempre que surge la oportunidad, realizo cursos que me aporten nuevas herramientas a mi stack (actualmente aprendiendo Phyton) y/o me permitan conocer nuevos campos (por ejemplo Big Data).
 
+📌 Este github se plantea como un portfolio donde quede registro de mi evolución y proyectos, tanto académicos como profesionales, y sirva de carta de presentación ante el futuro.
+
 📫 Contacto: devperezangel@gmail.com
 
 ¡Gracias!
