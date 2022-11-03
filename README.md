@@ -11,6 +11,10 @@ y aunque desde pequeño me encantó siempre la informática (mi primer ordenador
 
 Además, siempre que surge la oportunidad, realizo cursos que me aporten nuevas herramientas a mi stack (actualmente aprendiendo Phyton) y/o me permitan conocer nuevos campos (por ejemplo Big Data).
 
+📫 Contacto: devperezangel@gmail.com
+
+¡Gracias!
+
 <!---
 AngelPerezDev/AngelPerezDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
