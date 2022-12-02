@@ -3,7 +3,7 @@
 
 📲 Me interesa mucho la programación, especialmente back-end, y el desarrollo de aplicaciones móviles, especialmente en Android.
 
-📖 Actualmente estoy estudiando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma, donde estoy aprendiendo entre otros:
+📖 Actualmente estoy estudiando el 2º año del ciclo superior de Desarrollo de Aplicaciones Multiplataforma, donde estoy aprendiendo entre otros:
 - Lenguajes de programación como **C#, Java, JavaScript y Kotlin** 
 - IDEs como **Visual Studio, Visual Studio Code, NetBeans 15, Android Studio y Spring ToolSuite**
 - Acceso a datos de bases relacionales (**MySQL y Oracle**), uso y creación de **API Rest** y utilización de bases de datos **NoSQL** (**MongoDB**)
