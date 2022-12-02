@@ -6,7 +6,7 @@
 📖 Actualmente estoy estudiando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma, donde estoy aprendiendo entre otros:
 - Lenguajes de programación como **C#, Java, JavaScript y Kotlin** 
 - IDEs como **Visual Studio, Visual Studio Code, NetBeans 15, Android Studio y Spring ToolSuite**
-- Acceso a datos de bases relacionales (**SQL, MySQL y Oracle**) utilizando **DBeaver**, uso y creación de **API Rest** y utilización de bases de datos **noSQL** y documentales (**MongoDB**)
+- Acceso a datos de bases relacionales (**MySQL y Oracle**), uso y creación de **API Rest** y utilización de bases de datos **NoSQL** (**MongoDB**)
 - Metodologías de trabajo como **Scrum**
 
 Además, siempre que surge la oportunidad, realizo cursos que me aporten nuevas herramientas a mi stack (actualmente aprendiendo Phyton) y/o me permitan conocer nuevos campos (por ejemplo Big Data).
