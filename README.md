@@ -9,7 +9,7 @@
 - Acceso a datos de bases relacionales (**SQL, MySQL y Oracle**), uso y creación de **API Rest** y utilización de bases de datos **NoSQL** (**MongoDB**)
 - Metodologías de trabajo como **Scrum**
 
-Además, siempre que surge la oportunidad, realizo cursos que me aporten nuevas herramientas a mi stack (actualmente aprendiendo Phyton) y/o me permitan conocer nuevos campos (por ejemplo Big Data).
+Además, siempre que surge la oportunidad, realizo cursos que me aporten nuevas herramientas a mi stack (actualmente aprendiendo Phyton) y/o me permitan conocer nuevos campos (Big Data e IA me interesan aprender a corto-medio plazo).
 
 📢 Este github se plantea como un **portfolio** donde quede registro de mi **evolución y proyectos**, tanto académicos como profesionales, y sirva de carta de presentación ante el futuro.
 
