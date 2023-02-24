@@ -4,9 +4,9 @@
 📲 Me interesa mucho la programación, especialmente back-end, y el desarrollo de aplicaciones móviles, especialmente en Android.
 
 📖 Actualmente estoy terminando el 2º curso del ciclo superior de Desarrollo de Aplicaciones Multiplataforma, donde estoy aprendiendo entre otros:
-- Lenguajes de programación como **C#, Java, JavaScript y Kotlin** 
+- Lenguajes de programación como **C#, Java, SQL JavaScript y Kotlin** 
 - IDEs como **Visual Studio, Visual Studio Code, NetBeans 15, Android Studio y Spring ToolSuite**
-- Acceso a datos de bases relacionales (**SQL, MySQL y Oracle**), uso y creación de **API Rest** y utilización de bases de datos **NoSQL** (**MongoDB**)
+- Acceso a datos de bases relacionales (**MySQL y Oracle**), uso y creación de **API Rest** y utilización de bases de datos **NoSQL** (**MongoDB**)
 - Metodologías de trabajo como **Scrum**
 
 Además, siempre que surge la oportunidad, realizo cursos que me aporten nuevas herramientas a mi stack (actualmente aprendiendo Phyton) y/o me permitan conocer nuevos campos (Big Data e IA me interesan aprender a corto-medio plazo).
